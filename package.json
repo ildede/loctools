@@ -1,0 +1,13 @@
+{
+  "name": "loctools",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "wrangler dev",
+    "build": "parcel build src/client/index.html"
+  },
+  "devDependencies": {
+    "wrangler": "^4.20.3",
+    "parcel": "^2.15.2"
+  }
+}
