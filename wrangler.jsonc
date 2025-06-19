@@ -16,6 +16,10 @@
     {
       "pattern": "loctools.wtf",
       "custom_domain": true
+    },
+    {
+      "pattern": "www.loctools.wtf",
+      "custom_domain": true
     }
   ]
 }
